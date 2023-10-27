@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="V`hg9gDy~U;,o=^CIUk8" x="0" y="0"><statement name="HANDLER"><block type="typescript_statement" id="E;=8xJ@,o6YGW701JP@~" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="enum expressions {" line1="    expString1 = &quot;&gt;:(&quot;," line2="    expString2 = &quot;&gt;:D&quot;," line3="    expString3 = &quot;&gt;:|&quot;," line4="    expString4 = &quot;&gt;:O&quot;," line5="    expString5 = &quot;&gt;:/&quot;," line6="    expLed1 = &quot;&quot;" line7="}" numlines="8"></mutation><next><block type="device_show_leds" id="Ybd{VBYDmGO1t3o`iIL}"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="typescript_statement" id="4^i5ZClW.*x(EkB3I-qt" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="namespace Quote {" line1="" line2="}" numlines="3"></mutation></block></next></block></next></block></statement></block></xml>
